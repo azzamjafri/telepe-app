@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187616368002",
+    "firebase_url": "https://telepe-app.firebaseio.com",
+    "project_id": "telepe-app",
+    "storage_bucket": "telepe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187616368002:android:c4477313bfa286132ceb9b",
+        "android_client_info": {
+          "package_name": "com.example.telepeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187616368002-rkkvp7todcrta3l48s5e0r25vuv6bstm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.telepeapp",
+            "certificate_hash": "50bd05c2f4e6aafc72448c6a034a9cd346177064"
+          }
+        },
+        {
+          "client_id": "187616368002-1bvc1kcf0g52a9c567lft4rpsbr6c4ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEH-Lcu3r44i5lLi1hpITkVFBQEIg1Hzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187616368002-1bvc1kcf0g52a9c567lft4rpsbr6c4ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

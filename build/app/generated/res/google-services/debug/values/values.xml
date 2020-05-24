@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">187616368002-1bvc1kcf0g52a9c567lft4rpsbr6c4ra.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://telepe-app.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">187616368002</string>
+    <string name="google_api_key" translatable="false">AIzaSyDEH-Lcu3r44i5lLi1hpITkVFBQEIg1Hzo</string>
+    <string name="google_app_id" translatable="false">1:187616368002:android:c4477313bfa286132ceb9b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDEH-Lcu3r44i5lLi1hpITkVFBQEIg1Hzo</string>
+    <string name="google_storage_bucket" translatable="false">telepe-app.appspot.com</string>
+    <string name="project_id" translatable="false">telepe-app</string>
+</resources>
